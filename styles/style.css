@@ -297,13 +297,14 @@
 .footer__column-links {
   list-style-type: none;
   padding: 0;
+  margin: 20px 0 16px;
 }
 
 .footer__column-heading {
   line-height: 30px;
   font-size: 18px;
   font-weight: 600;
-  margin: 0 0 20px;
+  margin: 0;
 }
 
 .footer__column-link {
