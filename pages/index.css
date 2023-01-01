@@ -1,5 +1,6 @@
 @import url("./vendor/normalize.css");
 @import url("../blocks/page/page.css");
+/* блок header */
 @import url("../blocks/header/header.css");
 @import url("../blocks/logo/logo.css");
 @import url("../blocks/logo/_place_header/logo_place_header.css");
@@ -12,5 +13,31 @@
 @import url("../blocks/header/__square-pic/header__square-pic.css");
 /* блок description */
 @import url("../blocks/description/description.css");
+@import url("../blocks/description/two-columns/two-columns.css");
+@import url("../blocks/description/two-columns/__brief/two-columns__brief.css");
+@import url("../blocks/description/two-columns/__main-text/two-columns__main-text.css");
+@import url("../blocks/description/two-columns/__paragraph/two-columns__paragraph.css");
+@import url("../blocks/description/two-columns/__span-accent/two-columns__span-accent.css");
+/* блок digits */
+@import url("../blocks/digits/digits.css");
+@import url("../blocks/digits/section-title/section-title.css");
+@import url("../blocks/digits/section-subtitle/section-subtitle.css");
+@import url("../blocks/digits/table/table.css");
+@import url("../blocks/digits/table/__cell/table__cell.css");
+@import url("../blocks/digits/table/__heading/table__heading.css");
+@import url("../blocks/digits/table/__text/table__text.css");
+/* блок feynman */
+@import url("../blocks/feynman/feynman.css");
+@import url("../blocks/feynman/__title/feynman__title.css");
+@import url("../blocks/feynman/__subtitle/feynman__subtitle.css");
+@import url("../blocks/feynman/__link/feynman__link.css");
+/* блок kaufman */
+@import url("../blocks/kaufman/kaufman.css");
+@import url("../blocks/kaufman/__triangle/kaufman__triangle.css");
+@import url("../blocks/kaufman/section-title_theme/section-title_theme_dark.css");
+@import url("../blocks/kaufman/section-subtitle_theme/section-subtitle_theme_dark.css");
+@import url("../blocks/kaufman/table_theme/table_theme_dark.css");
+@import url("../blocks/kaufman/table_theme/__cell_theme/table__cell_theme_dark.css");
+/* блок  */
 
 @import url("../styles/style.css");
